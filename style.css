@@ -1,0 +1,19 @@
+h1{
+    background-color: orange;
+    color:black;
+}
+
+.container {
+    background-color: black;
+}
+
+#footer {
+    border: 1px solid black;
+}
+
+#title {
+    border: 1px solid black;
+    background-color: green;
+    color:aliceblue;
+}
+}
